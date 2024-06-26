@@ -5,6 +5,16 @@
 <p align="center"> <img src="img/alurabank1.gif" alt="Logo de Alura"> </p>
 <p align="center">Formulario de creación de cuenta para el banco virtual AluraBank.</p>
 
+<p align="center"> <img src="img/alurabank2.png" alt="Logo de Alura"> </p>
+<p align="center">Formulario de creación de cuenta para el banco virtual AluraBank.</p>
+
+<p align="center"> <img src="img/alurabank3.png" alt="Logo de Alura"> </p>
+<p align="center">Reconocimiento facial.</p>
+
+<p align="center"> <img src="img/alurabank4.png" alt="Logo de Alura"> </p>
+<p align="center">Registro exitoso.</p>
+
+
 ## Tecnologías utilizadas durante el curso
 * JavaScript
 

@@ -11,18 +11,9 @@ Está pensado para aprender y practicar:
 - Validación de formularios con JavaScript.
 - Uso básico de módulos JS y organización de assets (imágenes, estilos, páginas).
 
+## Formulario de creación de cuenta para el banco virtual AluraBank
 
 ![Formulario de creación de cuenta - AluraBank](img/alurabank1.gif)
-**Formulario de creación de cuenta para el banco virtual AluraBank.**
-
-![Reconocimiento facial](img/alurabank2.png)
-**Reconocimiento facial.**
-
-![Toma de foto](img/alurabank3.png)
-**Toma de foto.**
-
-![Registro exitoso](img/alurabank4.png)
-**Registro exitoso.**
 
 ## Características principales
 

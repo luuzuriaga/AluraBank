@@ -15,6 +15,16 @@ Está pensado para aprender y practicar:
 
 ![Formulario de creación de cuenta - AluraBank](img/alurabank1.gif)
 
+
+![Reconocimiento facial](img/alurabank2.png)
+**Reconocimiento facial.**
+
+![Toma de foto](img/alurabank3.png)
+**Toma de foto.**
+
+![Registro exitoso](img/alurabank4.png)
+**Registro exitoso.**
+
 ## Características principales
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
